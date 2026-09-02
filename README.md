@@ -64,3 +64,20 @@ Entre os principais resultados, foi possível observar:
 O projeto permitiu aplicar na prática conceitos de SQL e análise de dados, trabalhando com filtros, agrupamentos, funções de agregação e relacionamentos entre tabelas.
 
 Esse projeto faz parte do meu processo de aprendizado em Análise e Desenvolvimento de Sistemas e representa uma prática dos conhecimentos adquiridos em SQL e análise de dados.
+
+## O que aprendi
+
+Durante o desenvolvimento deste projeto, pratiquei conceitos importantes de SQL e análise de dados, como:
+
+- Criação e execução de consultas SQL;
+- Utilização de filtros para selecionar informações;
+- Agrupamento e ordenação de dados;
+- Utilização de funções de agregação;
+- Análise de faturamento e vendas;
+- Comparação de resultados por cidade e categoria;
+- Utilização de relacionamentos entre tabelas;
+- Organização de um projeto utilizando GitHub.
+
+## Próximos passos
+
+Como próximos passos, pretendo continuar aprimorando meus conhecimentos em SQL, análise de dados e outras tecnologias relacionadas à área de Análise e Desenvolvimento de Sistemas.
